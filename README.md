@@ -6,8 +6,6 @@ Seizure forecasting systems have the potential to help patients with epilepsy le
 
 ## The Competition
 
-Transitioning from the Kaggle contests held on seizure detection and seizure prediction in 2014 that primarily involved long-term electrical brain activity recordings from dogs, the current contest focuses on seizure prediction using long-term electrical brain activity recordings from humans obtained from the world-first clinical trial of the implantable NeuroVista Seizure Advisory System.
-
 Human brain activity was recorded in the form of intracranial EEG (iEEG), which involves electrodes positioned on the surface of the cerebral cortex and the recording of electrical signals with an ambulatory monitoring system. These are long duration recordings, spanning multiple months up to multiple years and recording large numbers of seizures in some humans. The challenge is to distinguish between ten minute long data clips covering an hour prior to a seizure, and ten minute iEEG clips of interictal activity. 
 
 ## Acknowledgments 
